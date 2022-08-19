@@ -1,10 +1,5 @@
-# Ngrams-Information-Retrieval
+# Information Retrieval/NLP Projects
 
-## Steps to Run
-
-Command line arguments:
-  1. Path to corpus
-  2. Output file -for-words
-  3. Output file for character counts
-  4. Output file for bigrams
-  5. Output file for trigrams
+1. Ngrams: determine all uni-, bi0, and trigrams in a corpus and their frequency.
+2. Positional Index: Create positional index from corpus
+3. Vector Space Model: Implement Vector Space Retirval Model for Cranfield corpus.
