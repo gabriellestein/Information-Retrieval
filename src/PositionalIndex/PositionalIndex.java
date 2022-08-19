@@ -3,7 +3,7 @@
 * and each document containing a list of positons that have that term
 * @author - Gabrielle Stein & Andrew Edwards
 */
-package programming_assg_02;
+package PositionalIndex;
 
 import java.util.*;
 
