@@ -5,7 +5,7 @@ Gabrielle Stein
 ***NOTE: Our group got an extension due to extenuating circumstance for this assignment.
 Please confirm with Xiaoli.
 
-Directions to run program
+## Directions to run program
 
 Locate the VectorSpaceModel.jar file
 cd to this location in terminal
@@ -32,7 +32,7 @@ Select export, then export as a runnable jar file.
 You can run this with the above command, just make sure if you change the .jar file name that you use that instead of PositionalIndex.jar.
 You will need to add included external jar file (included with submisson) to buildpath is you do this.
 
-Results from Test Cases
+## Results from Test Cases
 Please enter corpus file path: 
 cran.all.1400
 Input files directory path name is: cran.all.1400
