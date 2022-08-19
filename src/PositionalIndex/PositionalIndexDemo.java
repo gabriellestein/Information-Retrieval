@@ -3,7 +3,7 @@
 * Allows a user do a promximity search for two terms and returns all documents found in search. 
 * @author - Gabrielle Stein & Andrew Edwards
 */
-package programming_assg_02;
+package PositionalIndex;
 
 import java.io.BufferedReader;
 import java.io.File;

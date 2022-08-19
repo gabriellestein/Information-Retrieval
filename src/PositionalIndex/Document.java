@@ -2,7 +2,7 @@
 * Creates a document that contains a list of positions where this term is found
 * @author - Gabrielle Stein & Andrew Edwards
 */
-package programming_assg_02;
+package PositionalIndex;
 
 import java.util.*;
 

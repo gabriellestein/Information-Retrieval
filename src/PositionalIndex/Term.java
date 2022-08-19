@@ -2,7 +2,7 @@
 * Creates a term with the list of documents that contain the term
 * @author - Gabrielle Stein & Andrew Edwards
 */
-package programming_assg_02;
+package PositionalIndex;
 
 import java.util.*;
 

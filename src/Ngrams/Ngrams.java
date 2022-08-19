@@ -5,6 +5,7 @@
     Date Created: 02 Jan 2021
     Date Last Modified: 03 Jan 2022
 */
+package Ngrams;
 
 // represents files and directory pathnames 
 // in an abstract manner
