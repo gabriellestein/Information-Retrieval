@@ -1,4 +1,7 @@
-Directions to run program
+# Positional Index
+Create positional index of terms in corpus. Query corpus.
+
+## Directions to run program
 
 Locate the PositionalIndex.jar file
 cd to this location in terminal
@@ -21,7 +24,7 @@ Select export, then export as a runnable jar file.
 You can run this with the above command, just make sure if you change the .jar file name that you use that instead of PositionalIndex.jar.
 You will need to add included external jar file (included with submisson) to buildpath is you do this.
 
-Results from Test Cases
+## Results from Test Cases
 Input files directory path name is: C:\Users\gabby\OneDrive - East Carolina University\CSCI 4130\Programming Assignments\02-programming-assignment\corpus
 Beginning corpus indexing . . .
 Finished corpus indexing
